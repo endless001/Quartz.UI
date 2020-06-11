@@ -2,7 +2,7 @@
 obj
 bin
 # user files
-.user
+.csproj.user
 .suo
 .vs
 .idea
